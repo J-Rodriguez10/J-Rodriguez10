@@ -11,4 +11,4 @@ I am an Aspiring **Full Software Engineer** currently enjoying learning frontend
 
 Here are some of the technologies I’ve used to build my past projects:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,python,java,react,nextjs,spring,nodejs,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,python,java,react,nextjs,nodejs,github)](https://skillicons.dev)
