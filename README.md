@@ -1,9 +1,9 @@
-# Hello! I'm Jesus Rodriguez 👋
+**👋 Hi, I’m Jesus Rodriguez**
+Senior CS student at OSU (ECampus, ’26) and NPower IT Trainee working toward CompTIA Tech+, Microsoft Azure, and Google IT Support certifications.
 
-📍 **Location:** San Jose, California  
-🎓 **Education:** Oregon State University, Ecampus Program  
-
-I am an Aspiring **Full Software Engineer** currently enjoying learning frontend! I enjoy building visually appealing websites and learning the next best thing to grow my skill set. <br><br> I'm eager to contribute, learn, and grow in a collaborative environment.  Let's build something great together! 🧠
+I’m passionate about IT support (troubleshooting, ticketing workflows, networking labs, automation) and software engineering (React, Next.js, Express, MongoDB).
+ 
+Currently building projects that blend hands-on IT skills with full-stack development while preparing for entry-level roles in Help Desk, IT Support, or Software Engineering
 
 ---
 
