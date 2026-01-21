@@ -1,5 +1,5 @@
 **👋 Hi, I’m Jesus Rodriguez**
-Senior CS student at OSU (ECampus, ’26) and NPower IT Trainee working toward CompTIA Tech+, Microsoft Azure, and Google IT Support certifications.
+CS student at OSU and NPower IT Alumni working with CompTIA Tech+, Microsoft Azure, and Google IT Support certifications.
 
 I’m passionate about IT support (troubleshooting, ticketing workflows, networking labs, automation) and software engineering (React, Next.js, Express, MongoDB).
  
